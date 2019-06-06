@@ -1,4 +1,8 @@
-# Default starter for Gridsome
+# Gridsome Vue Static Site Test
+
+This is a basic site to play around with Gridsome for building a static Vue site...It doesn't do much.
+
+---
 
 This is the project you get when you run `gridsome create new-project`.
 
