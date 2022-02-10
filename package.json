@@ -15,7 +15,7 @@
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-plugin-gridsome": "^1.2.5",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.1.0",
     "vue-eslint-parser": "^6.0.4"
   }
